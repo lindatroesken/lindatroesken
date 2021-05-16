@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Linda @troesken
-- 🌱 I’m currently learning Java, Python, JavaScript, Html, CSS, ... 
-- I'm working on some small projects to improve my skills and show it to others.
+- 🌱 I’m currently learning Java, Python, JavaScript, Html, CSS, ... and Git.
+-    I'm working on some small projects to improve my skills and use github to learn and to share my projects with others.
 
 
 <!---
