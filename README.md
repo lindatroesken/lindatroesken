@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Linda @lindatroesken
-- 🌱 I’m currently learning Java, JavaScript, Html, CSS, Git, Spring, React, ... at **neuefische bootcamp** (July 12th - October 1st 2021)
+- since November 2021 I work as a software developer (Java, Angular) at IVU traffic technologies
+- 🌱 I learned Java, JavaScript, Html, CSS, Git, Spring, React, ... at **neuefische bootcamp** (July 12th - October 1st 2021)
 
 
 <!---
